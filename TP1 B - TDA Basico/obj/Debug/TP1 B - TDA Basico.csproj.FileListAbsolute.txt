@@ -1,0 +1,5 @@
+G:\cruzerblade\UADE\Programacion II\TP1 B - TDA Basico\TP1 B - TDA Basico\bin\Debug\TP1 B - TDA Basico.exe.config
+G:\cruzerblade\UADE\Programacion II\TP1 B - TDA Basico\TP1 B - TDA Basico\bin\Debug\TP1 B - TDA Basico.exe
+G:\cruzerblade\UADE\Programacion II\TP1 B - TDA Basico\TP1 B - TDA Basico\bin\Debug\TP1 B - TDA Basico.pdb
+G:\cruzerblade\UADE\Programacion II\TP1 B - TDA Basico\TP1 B - TDA Basico\obj\Debug\TP1 B - TDA Basico.exe
+G:\cruzerblade\UADE\Programacion II\TP1 B - TDA Basico\TP1 B - TDA Basico\obj\Debug\TP1 B - TDA Basico.pdb
